@@ -1,4 +1,4 @@
-# mercado-libre-ML-challenge
+# ML-coding-challenge
 
 - The challenge to be solved can be found in new_or_used.py
 
